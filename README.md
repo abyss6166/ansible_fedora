@@ -1,2 +1,2 @@
 # ansible_fedora
-Ansible repo for Fedora install
+Ansible repository for Fedora install - updated

@@ -1,2 +1,2 @@
-10.0.0.28
-10.0.0.29
+10.0.0.28 ansible_user=tuser ansible_pass=testuser
+10.0.0.29 ansible_user=matt ansible_pass=msh
